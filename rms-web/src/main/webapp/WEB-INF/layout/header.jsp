@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1><font color="#408080"> AARTEK Software pvt ltd </font></h1>
+<h1><font color="#408080"> AARTEK Software Private Limited </font></h1>
 
 </body>
 </html>
